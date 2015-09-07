@@ -1,7 +1,0 @@
-*.pyc
-/logs
-/vids
-/enroute
-.cproject
-.project
-.settings/*
