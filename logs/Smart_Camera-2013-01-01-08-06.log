@@ -1,0 +1,515 @@
+2013-01-01 08:06:09,794 - general - Connecting to vehicle...
+2013-01-01 08:06:09,798 - general - Vehicle connected!
+2013-01-01 08:06:09,798 - general - running Precision_Land
+2013-01-01 08:06:09,799 - general - Starting Camera....
+2013-01-01 08:06:09,862 - general - Camera Open!
+2013-01-01 08:06:10,573 - general - Frame 0
+2013-01-01 08:06:10,697 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:10,757 - general - Frame 1
+2013-01-01 08:06:10,810 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:10,883 - general - Frame 2
+2013-01-01 08:06:10,910 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:11,144 - general - Frame 3
+2013-01-01 08:06:11,217 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:11,290 - general - Frame 4
+2013-01-01 08:06:11,366 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:11,426 - general - Frame 5
+2013-01-01 08:06:11,484 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:11,563 - general - Frame 6
+2013-01-01 08:06:11,630 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:11,693 - general - Frame 7
+2013-01-01 08:06:11,770 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:11,826 - general - Frame 8
+2013-01-01 08:06:11,885 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:11,962 - general - Frame 9
+2013-01-01 08:06:12,032 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:12,093 - general - Frame 10
+2013-01-01 08:06:12,169 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:12,231 - general - Frame 11
+2013-01-01 08:06:12,284 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:12,362 - general - Frame 12
+2013-01-01 08:06:12,432 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:12,493 - general - Frame 13
+2013-01-01 08:06:12,568 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:12,629 - general - Frame 14
+2013-01-01 08:06:12,686 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:12,763 - general - Frame 15
+2013-01-01 08:06:12,833 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:12,899 - general - Frame 16
+2013-01-01 08:06:12,973 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:13,030 - general - Frame 17
+2013-01-01 08:06:13,089 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:13,164 - general - Frame 18
+2013-01-01 08:06:13,239 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:13,300 - general - Frame 19
+2013-01-01 08:06:13,378 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:13,458 - general - Frame 20
+2013-01-01 08:06:13,508 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:13,576 - general - Frame 21
+2013-01-01 08:06:13,624 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:13,698 - general - Frame 22
+2013-01-01 08:06:13,752 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:13,832 - general - Frame 23
+2013-01-01 08:06:13,894 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:13,964 - general - Frame 24
+2013-01-01 08:06:14,033 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:14,099 - general - Frame 25
+2013-01-01 08:06:14,176 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:14,232 - general - Frame 26
+2013-01-01 08:06:14,305 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:14,366 - general - Frame 27
+2013-01-01 08:06:14,422 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:14,499 - general - Frame 28
+2013-01-01 08:06:14,568 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:14,634 - general - Frame 29
+2013-01-01 08:06:14,689 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:14,767 - general - Frame 30
+2013-01-01 08:06:14,838 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:14,899 - general - Frame 31
+2013-01-01 08:06:14,969 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:15,033 - general - Frame 32
+2013-01-01 08:06:15,104 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:15,164 - general - Frame 33
+2013-01-01 08:06:15,239 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:15,301 - general - Frame 34
+2013-01-01 08:06:15,376 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:15,433 - general - Frame 35
+2013-01-01 08:06:15,505 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:15,569 - general - Frame 36
+2013-01-01 08:06:15,621 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:15,700 - general - Frame 37
+2013-01-01 08:06:15,774 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:15,834 - general - Frame 38
+2013-01-01 08:06:15,910 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:15,970 - general - Frame 39
+2013-01-01 08:06:16,029 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:16,103 - general - Frame 40
+2013-01-01 08:06:16,156 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:16,236 - general - Frame 41
+2013-01-01 08:06:16,306 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:16,368 - general - Frame 42
+2013-01-01 08:06:16,437 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:16,510 - general - Frame 43
+2013-01-01 08:06:16,584 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:16,637 - general - Frame 44
+2013-01-01 08:06:16,711 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:16,773 - general - Frame 45
+2013-01-01 08:06:16,842 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:16,903 - general - Frame 46
+2013-01-01 08:06:16,977 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:17,040 - general - Frame 47
+2013-01-01 08:06:17,110 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:17,169 - general - Frame 48
+2013-01-01 08:06:17,244 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:17,306 - general - Frame 49
+2013-01-01 08:06:17,358 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:17,437 - general - Frame 50
+2013-01-01 08:06:17,508 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:17,572 - general - Frame 51
+2013-01-01 08:06:17,641 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:17,704 - general - Frame 52
+2013-01-01 08:06:17,762 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:17,835 - general - Frame 53
+2013-01-01 08:06:17,899 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:17,974 - general - Frame 54
+2013-01-01 08:06:18,047 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:18,105 - general - Frame 55
+2013-01-01 08:06:18,163 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:18,241 - general - Frame 56
+2013-01-01 08:06:18,317 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:18,372 - general - Frame 57
+2013-01-01 08:06:18,432 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:18,506 - general - Frame 58
+2013-01-01 08:06:18,568 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:18,640 - general - Frame 59
+2013-01-01 08:06:18,709 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:18,772 - general - Frame 60
+2013-01-01 08:06:18,834 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:18,914 - general - Frame 61
+2013-01-01 08:06:18,992 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:19,068 - general - Frame 62
+2013-01-01 08:06:19,131 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:19,209 - general - Frame 63
+2013-01-01 08:06:19,283 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:19,341 - general - Frame 64
+2013-01-01 08:06:19,416 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:19,474 - general - Frame 65
+2013-01-01 08:06:19,532 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:19,609 - general - Frame 66
+2013-01-01 08:06:19,671 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:19,732 - general - Frame 67
+2013-01-01 08:06:19,801 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:19,894 - general - Frame 68
+2013-01-01 08:06:19,967 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:20,050 - general - Frame 69
+2013-01-01 08:06:20,111 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:20,175 - general - Frame 70
+2013-01-01 08:06:20,235 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:20,294 - general - Frame 71
+2013-01-01 08:06:20,363 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:20,450 - general - Frame 72
+2013-01-01 08:06:20,505 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:20,576 - general - Frame 73
+2013-01-01 08:06:20,624 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:20,695 - general - Frame 74
+2013-01-01 08:06:20,758 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:20,813 - general - Frame 75
+2013-01-01 08:06:20,879 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:20,935 - general - Frame 76
+2013-01-01 08:06:20,990 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:21,053 - general - Frame 77
+2013-01-01 08:06:21,134 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:21,208 - general - Frame 78
+2013-01-01 08:06:21,264 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:21,333 - general - Frame 79
+2013-01-01 08:06:21,382 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:21,456 - general - Frame 80
+2013-01-01 08:06:21,511 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:21,578 - general - Frame 81
+2013-01-01 08:06:21,628 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:21,696 - general - Frame 82
+2013-01-01 08:06:21,753 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:21,845 - general - Frame 83
+2013-01-01 08:06:21,895 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:21,994 - general - Frame 84
+2013-01-01 08:06:22,043 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:22,138 - general - Frame 85
+2013-01-01 08:06:22,211 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:22,297 - general - Frame 86
+2013-01-01 08:06:22,356 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:22,444 - general - Frame 87
+2013-01-01 08:06:22,487 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:22,552 - general - Frame 88
+2013-01-01 08:06:22,610 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:22,694 - general - Frame 89
+2013-01-01 08:06:22,751 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:22,843 - general - Frame 90
+2013-01-01 08:06:22,893 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:22,993 - general - Frame 91
+2013-01-01 08:06:23,070 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:23,143 - general - Frame 92
+2013-01-01 08:06:23,211 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:23,295 - general - Frame 93
+2013-01-01 08:06:23,349 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:23,442 - general - Frame 94
+2013-01-01 08:06:23,503 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:23,591 - general - Frame 95
+2013-01-01 08:06:23,648 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:23,745 - general - Frame 96
+2013-01-01 08:06:23,820 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:23,892 - general - Frame 97
+2013-01-01 08:06:23,950 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:24,042 - general - Frame 98
+2013-01-01 08:06:24,091 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:24,193 - general - Frame 99
+2013-01-01 08:06:24,269 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:24,342 - general - Frame 100
+2013-01-01 08:06:24,410 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:24,492 - general - Frame 101
+2013-01-01 08:06:24,548 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:24,644 - general - Frame 102
+2013-01-01 08:06:24,689 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:24,794 - general - Frame 103
+2013-01-01 08:06:24,847 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:24,947 - general - Frame 104
+2013-01-01 08:06:24,991 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:25,094 - general - Frame 105
+2013-01-01 08:06:25,148 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:25,243 - general - Frame 106
+2013-01-01 08:06:25,297 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:25,391 - general - Frame 107
+2013-01-01 08:06:25,470 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:25,543 - general - Frame 108
+2013-01-01 08:06:25,601 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:25,691 - general - Frame 109
+2013-01-01 08:06:25,766 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:25,905 - general - Frame 110
+2013-01-01 08:06:25,959 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:26,047 - general - Frame 111
+2013-01-01 08:06:26,111 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:26,180 - general - Frame 112
+2013-01-01 08:06:26,229 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:26,306 - general - Frame 113
+2013-01-01 08:06:26,377 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:26,468 - general - Frame 114
+2013-01-01 08:06:26,538 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:26,598 - general - Frame 115
+2013-01-01 08:06:26,675 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:26,766 - general - Frame 116
+2013-01-01 08:06:26,843 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:26,976 - general - Frame 117
+2013-01-01 08:06:27,041 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:27,129 - general - Frame 118
+2013-01-01 08:06:27,208 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:27,338 - general - Frame 119
+2013-01-01 08:06:27,395 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:27,487 - general - Frame 120
+2013-01-01 08:06:27,563 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:27,696 - general - Frame 121
+2013-01-01 08:06:27,768 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:27,851 - general - Frame 122
+2013-01-01 08:06:27,924 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:28,062 - general - Frame 123
+2013-01-01 08:06:28,133 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:28,282 - general - Frame 124
+2013-01-01 08:06:28,345 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:28,412 - general - Frame 125
+2013-01-01 08:06:28,468 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:28,568 - general - Frame 126
+2013-01-01 08:06:28,624 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:28,727 - general - Frame 127
+2013-01-01 08:06:28,787 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:28,960 - general - Frame 128
+2013-01-01 08:06:29,036 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:29,128 - general - Frame 129
+2013-01-01 08:06:29,185 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:29,359 - general - Frame 130
+2013-01-01 08:06:29,416 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:29,563 - general - Frame 131
+2013-01-01 08:06:29,614 - algorithm - found: True x: 512.904174805 y: 306.794586182 radius: 19.8101234436
+2013-01-01 08:06:29,755 - general - Frame 132
+2013-01-01 08:06:29,831 - algorithm - found: True x: 486.068115234 y: 328.403320312 radius: 5.14781522751
+2013-01-01 08:06:29,925 - general - Frame 133
+2013-01-01 08:06:29,993 - algorithm - found: True x: 487.040008545 y: 339.529998779 radius: 6.84488773346
+2013-01-01 08:06:30,158 - general - Frame 134
+2013-01-01 08:06:30,220 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:30,355 - general - Frame 135
+2013-01-01 08:06:30,410 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:30,558 - general - Frame 136
+2013-01-01 08:06:30,613 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:30,759 - general - Frame 137
+2013-01-01 08:06:30,821 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:30,955 - general - Frame 138
+2013-01-01 08:06:31,010 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:31,106 - general - Frame 139
+2013-01-01 08:06:31,157 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:31,300 - general - Frame 140
+2013-01-01 08:06:31,344 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:31,430 - general - Frame 141
+2013-01-01 08:06:31,497 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:31,585 - general - Frame 142
+2013-01-01 08:06:31,654 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:31,746 - general - Frame 143
+2013-01-01 08:06:31,816 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:31,910 - general - Frame 144
+2013-01-01 08:06:31,978 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:32,065 - general - Frame 145
+2013-01-01 08:06:32,135 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:32,225 - general - Frame 146
+2013-01-01 08:06:32,281 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:32,420 - general - Frame 147
+2013-01-01 08:06:32,477 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:32,549 - general - Frame 148
+2013-01-01 08:06:32,605 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:32,706 - general - Frame 149
+2013-01-01 08:06:32,761 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:32,903 - general - Frame 150
+2013-01-01 08:06:32,946 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:33,029 - general - Frame 151
+2013-01-01 08:06:33,081 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:33,215 - general - Frame 152
+2013-01-01 08:06:33,276 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:33,353 - general - Frame 153
+2013-01-01 08:06:33,424 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:33,506 - general - Frame 154
+2013-01-01 08:06:33,566 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:33,701 - general - Frame 155
+2013-01-01 08:06:33,757 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:33,838 - general - Frame 156
+2013-01-01 08:06:33,905 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:33,987 - general - Frame 157
+2013-01-01 08:06:34,044 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:34,146 - general - Frame 158
+2013-01-01 08:06:34,218 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:34,379 - general - Frame 159
+2013-01-01 08:06:34,435 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:34,603 - general - Frame 160
+2013-01-01 08:06:34,648 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:34,842 - general - Frame 161
+2013-01-01 08:06:34,903 - algorithm - found: True x: 425.908355713 y: 315.574584961 radius: 10.4941415787
+2013-01-01 08:06:35,122 - general - Frame 162
+2013-01-01 08:06:35,179 - algorithm - found: True x: 503.681640625 y: 234.323898315 radius: 37.5661468506
+2013-01-01 08:06:35,403 - general - Frame 163
+2013-01-01 08:06:35,462 - algorithm - found: True x: 541.007202148 y: 166.411437988 radius: 37.7823219299
+2013-01-01 08:06:35,718 - general - Frame 164
+2013-01-01 08:06:35,784 - algorithm - found: True x: 485.497924805 y: 187.502716064 radius: 93.6048049927
+2013-01-01 08:06:35,999 - general - Frame 165
+2013-01-01 08:06:36,062 - algorithm - found: True x: 228.354797363 y: 381.765930176 radius: 61.9486579895
+2013-01-01 08:06:36,240 - general - Frame 166
+2013-01-01 08:06:36,307 - algorithm - found: True x: 525.05657959 y: 133.74861145 radius: 73.0733108521
+2013-01-01 08:06:36,522 - general - Frame 167
+2013-01-01 08:06:36,589 - algorithm - found: True x: 265.02331543 y: 353.87677002 radius: 91.5761413574
+2013-01-01 08:06:36,803 - general - Frame 168
+2013-01-01 08:06:36,874 - algorithm - found: True x: 240.371246338 y: 368.617736816 radius: 79.9017028809
+2013-01-01 08:06:37,082 - general - Frame 169
+2013-01-01 08:06:37,139 - algorithm - found: True x: 436.327972412 y: 230.704650879 radius: 9.91455364227
+2013-01-01 08:06:37,188 - general - Frame 170
+2013-01-01 08:06:37,228 - algorithm - found: True x: 195.8309021 y: 394.699615479 radius: 59.5516242981
+2013-01-01 08:06:37,326 - general - Frame 171
+2013-01-01 08:06:37,375 - algorithm - found: True x: 540.284912109 y: 104.441368103 radius: 47.9673576355
+2013-01-01 08:06:37,469 - general - Frame 172
+2013-01-01 08:06:37,525 - algorithm - found: True x: 213.329528809 y: 386.559204102 radius: 41.0714492798
+2013-01-01 08:06:37,613 - general - Frame 173
+2013-01-01 08:06:37,666 - algorithm - found: True x: 192.063446045 y: 398.40838623 radius: 42.6840019226
+2013-01-01 08:06:37,751 - general - Frame 174
+2013-01-01 08:06:37,808 - algorithm - found: True x: 521.155090332 y: 131.673278809 radius: 53.1231536865
+2013-01-01 08:06:37,892 - general - Frame 175
+2013-01-01 08:06:37,957 - algorithm - found: True x: 194.536575317 y: 397.427825928 radius: 40.7727851868
+2013-01-01 08:06:38,031 - general - Frame 176
+2013-01-01 08:06:38,087 - algorithm - found: True x: 201.720504761 y: 393.53729248 radius: 46.3136863708
+2013-01-01 08:06:38,170 - general - Frame 177
+2013-01-01 08:06:38,226 - algorithm - found: True x: 191.225708008 y: 398.863800049 radius: 37.3555145264
+2013-01-01 08:06:38,312 - general - Frame 178
+2013-01-01 08:06:38,360 - algorithm - found: True x: 199.866867065 y: 395.156311035 radius: 42.3798027039
+2013-01-01 08:06:38,450 - general - Frame 179
+2013-01-01 08:06:38,506 - algorithm - found: True x: 195.572372437 y: 397.173675537 radius: 36.1956634521
+2013-01-01 08:06:38,592 - general - Frame 180
+2013-01-01 08:06:38,642 - algorithm - found: True x: 542.75604248 y: 100.812896729 radius: 40.3947715759
+2013-01-01 08:06:38,731 - general - Frame 181
+2013-01-01 08:06:38,787 - algorithm - found: True x: 221.991195679 y: 384.994354248 radius: 49.6181564331
+2013-01-01 08:06:38,878 - general - Frame 182
+2013-01-01 08:06:38,948 - algorithm - found: True x: 531.204223633 y: 116.148086548 radius: 41.1529960632
+2013-01-01 08:06:39,010 - general - Frame 183
+2013-01-01 08:06:39,066 - algorithm - found: True x: 215.672561646 y: 388.237457275 radius: 37.2607650757
+2013-01-01 08:06:39,153 - general - Frame 184
+2013-01-01 08:06:39,214 - algorithm - found: True x: 538.460571289 y: 112.918228149 radius: 41.1209182739
+2013-01-01 08:06:39,291 - general - Frame 185
+2013-01-01 08:06:39,347 - algorithm - found: True x: 204.371047974 y: 393.075531006 radius: 38.6623840332
+2013-01-01 08:06:39,433 - general - Frame 186
+2013-01-01 08:06:39,482 - algorithm - found: True x: 204.151596069 y: 394.982971191 radius: 43.889339447
+2013-01-01 08:06:39,571 - general - Frame 187
+2013-01-01 08:06:39,635 - algorithm - found: True x: 202.644821167 y: 397.22869873 radius: 35.0209884644
+2013-01-01 08:06:39,711 - general - Frame 188
+2013-01-01 08:06:39,767 - algorithm - found: True x: 494.438903809 y: 174.435241699 radius: 34.4175186157
+2013-01-01 08:06:39,850 - general - Frame 189
+2013-01-01 08:06:39,907 - algorithm - found: True x: 204.026977539 y: 396.176269531 radius: 39.5126304626
+2013-01-01 08:06:39,991 - general - Frame 190
+2013-01-01 08:06:40,046 - algorithm - found: True x: 533.245666504 y: 120.618728638 radius: 36.5108985901
+2013-01-01 08:06:40,130 - general - Frame 191
+2013-01-01 08:06:40,186 - algorithm - found: True x: 208.620407104 y: 393.140167236 radius: 36.6178627014
+2013-01-01 08:06:40,270 - general - Frame 192
+2013-01-01 08:06:40,327 - algorithm - found: True x: 526.728027344 y: 127.798110962 radius: 42.0721969604
+2013-01-01 08:06:40,411 - general - Frame 193
+2013-01-01 08:06:40,467 - algorithm - found: True x: 534.647521973 y: 118.050308228 radius: 52.4782028198
+2013-01-01 08:06:40,559 - general - Frame 194
+2013-01-01 08:06:40,630 - algorithm - found: True x: 541.288330078 y: 109.605194092 radius: 38.3374671936
+2013-01-01 08:06:40,691 - general - Frame 195
+2013-01-01 08:06:40,753 - algorithm - found: True x: 211.776702881 y: 392.849182129 radius: 35.0794219971
+2013-01-01 08:06:40,832 - general - Frame 196
+2013-01-01 08:06:40,888 - algorithm - found: True x: 211.122451782 y: 393.586883545 radius: 34.4309387207
+2013-01-01 08:06:40,971 - general - Frame 197
+2013-01-01 08:06:41,027 - algorithm - found: True x: 205.376052856 y: 394.838989258 radius: 42.6723632812
+2013-01-01 08:06:41,111 - general - Frame 198
+2013-01-01 08:06:41,167 - algorithm - found: True x: 527.450927734 y: 127.069503784 radius: 54.7179985046
+2013-01-01 08:06:41,255 - general - Frame 199
+2013-01-01 08:06:41,306 - algorithm - found: True x: 218.693222046 y: 388.898590088 radius: 37.5803527832
+2013-01-01 08:06:41,391 - general - Frame 200
+2013-01-01 08:06:41,447 - algorithm - found: True x: 212.942733765 y: 392.718139648 radius: 34.8908462524
+2013-01-01 08:06:41,530 - general - Frame 201
+2013-01-01 08:06:41,586 - algorithm - found: True x: 528.57019043 y: 127.65221405 radius: 50.9047317505
+2013-01-01 08:06:41,671 - general - Frame 202
+2013-01-01 08:06:41,720 - algorithm - found: True x: 550.094421387 y: 102.111244202 radius: 38.888343811
+2013-01-01 08:06:41,810 - general - Frame 203
+2013-01-01 08:06:41,872 - algorithm - found: True x: 553.643615723 y: 96.6509475708 radius: 39.6379966736
+2013-01-01 08:06:41,954 - general - Frame 204
+2013-01-01 08:06:42,007 - algorithm - found: True x: 213.5887146 y: 390.659667969 radius: 38.3058357239
+2013-01-01 08:06:42,092 - general - Frame 205
+2013-01-01 08:06:42,148 - algorithm - found: True x: 543.051696777 y: 108.023216248 radius: 39.3868865967
+2013-01-01 08:06:42,234 - general - Frame 206
+2013-01-01 08:06:42,289 - algorithm - found: True x: 546.132568359 y: 113.209381104 radius: 44.9825210571
+2013-01-01 08:06:42,370 - general - Frame 207
+2013-01-01 08:06:42,426 - algorithm - found: True x: 564.298828125 y: 110.417541504 radius: 42.1822090149
+2013-01-01 08:06:42,511 - general - Frame 208
+2013-01-01 08:06:42,566 - algorithm - found: True x: 211.573181152 y: 408.134063721 radius: 18.5143375397
+2013-01-01 08:06:42,650 - general - Frame 209
+2013-01-01 08:06:42,706 - algorithm - found: True x: 579.69720459 y: 107.52570343 radius: 44.6272697449
+2013-01-01 08:06:42,792 - general - Frame 210
+2013-01-01 08:06:42,840 - algorithm - found: True x: 585.44342041 y: 104.787269592 radius: 49.279548645
+2013-01-01 08:06:42,930 - general - Frame 211
+2013-01-01 08:06:42,994 - algorithm - found: True x: 560.149658203 y: 152.426132202 radius: 52.5538024902
+2013-01-01 08:06:43,070 - general - Frame 212
+2013-01-01 08:06:43,388 - algorithm - found: True x: 316.233306885 y: 380.371765137 radius: 37.4391174316
+2013-01-01 08:06:43,559 - general - Frame 213
+2013-01-01 08:06:43,622 - algorithm - found: True x: 355.860717773 y: 394.940002441 radius: 26.9264850616
+2013-01-01 08:06:43,800 - general - Frame 214
+2013-01-01 08:06:43,865 - algorithm - found: True x: 515.710021973 y: 288.110290527 radius: 96.8110427856
+2013-01-01 08:06:44,081 - general - Frame 215
+2013-01-01 08:06:44,152 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:44,318 - general - Frame 216
+2013-01-01 08:06:44,387 - algorithm - found: True x: 84.6661224365 y: 379.471588135 radius: 14.7562456131
+2013-01-01 08:06:44,559 - general - Frame 217
+2013-01-01 08:06:44,629 - algorithm - found: True x: 82.9349594116 y: 371.457611084 radius: 7.07984495163
+2013-01-01 08:06:44,798 - general - Frame 218
+2013-01-01 08:06:44,854 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:45,044 - general - Frame 219
+2013-01-01 08:06:45,090 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:45,258 - general - Frame 220
+2013-01-01 08:06:45,331 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:45,425 - general - Frame 221
+2013-01-01 08:06:45,481 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:45,644 - general - Frame 222
+2013-01-01 08:06:45,695 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:45,770 - general - Frame 223
+2013-01-01 08:06:45,832 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:45,925 - general - Frame 224
+2013-01-01 08:06:45,977 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:46,122 - general - Frame 225
+2013-01-01 08:06:46,180 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:46,250 - general - Frame 226
+2013-01-01 08:06:46,302 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:46,405 - general - Frame 227
+2013-01-01 08:06:46,467 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:46,600 - general - Frame 228
+2013-01-01 08:06:46,648 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:46,729 - general - Frame 229
+2013-01-01 08:06:46,775 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:46,919 - general - Frame 230
+2013-01-01 08:06:46,971 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:47,057 - general - Frame 231
+2013-01-01 08:06:47,129 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:47,206 - general - Frame 232
+2013-01-01 08:06:47,262 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:47,400 - general - Frame 233
+2013-01-01 08:06:47,444 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:47,531 - general - Frame 234
+2013-01-01 08:06:47,608 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:47,686 - general - Frame 235
+2013-01-01 08:06:47,739 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:47,880 - general - Frame 236
+2013-01-01 08:06:47,924 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:48,015 - general - Frame 237
+2013-01-01 08:06:48,081 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:48,166 - general - Frame 238
+2013-01-01 08:06:48,217 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:48,356 - general - Frame 239
+2013-01-01 08:06:48,425 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:48,492 - general - Frame 240
+2013-01-01 08:06:48,562 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:48,647 - general - Frame 241
+2013-01-01 08:06:48,703 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:48,844 - general - Frame 242
+2013-01-01 08:06:48,900 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:48,979 - general - Frame 243
+2013-01-01 08:06:49,052 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:49,127 - general - Frame 244
+2013-01-01 08:06:49,172 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:49,318 - general - Frame 245
+2013-01-01 08:06:49,385 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:49,459 - general - Frame 246
+2013-01-01 08:06:49,512 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:49,605 - general - Frame 247
+2013-01-01 08:06:49,667 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:49,798 - general - Frame 248
+2013-01-01 08:06:49,862 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:49,939 - general - Frame 249
+2013-01-01 08:06:49,992 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:50,086 - general - Frame 250
+2013-01-01 08:06:50,147 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:50,280 - general - Frame 251
+2013-01-01 08:06:50,329 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:50,409 - general - Frame 252
+2013-01-01 08:06:50,487 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:50,566 - general - Frame 253
+2013-01-01 08:06:50,618 - algorithm - found: False x: 0 y: 0 radius: 0
+2013-01-01 08:06:50,760 - general - Frame 254
+2013-01-01 08:06:50,825 - algorithm - found: False x: 0 y: 0 radius: 0
