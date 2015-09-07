@@ -1,0 +1,138 @@
+#!/usr/bin/python
+import math
+import time
+import cv2
+import Queue
+import sc_config
+from sc_video import sc_video
+from sc_dispatcher import sc_dispatcher
+from sc_logger import sc_logger
+from pl_gui import PrecisionLandGUI as gui
+from pl_sim import sim
+from pl_util import shift_to_origin, current_milli_time
+from CircleDetector import CircleDetector
+from vehicle_control import veh_control
+from droneapi.lib import VehicleMode, Location, Attitude
+from position_vector import PositionVector
+
+#api             = local_connect()
+#vehicle         = api.get_vehicles()[0]
+#descent_rate = sc_config.config.get_float('general','descent_rate', 0.5)
+
+class takeland(object):
+
+	def __init__(self):
+		#when we have lock on target, only descend if within this radius
+		self.descent_radius = sc_config.config.get_float('general', 'descent_radius', 1.0)
+		#Descent velocity
+		self.descent_rate = sc_config.config.get_float('general','descent_rate', 0.5)
+		self.last_set_velocity=0
+		self.vel_update_rate = sc_config.config.get_float('vehicle control', 'vel_update_rate', 0.1)
+
+	def name(self):
+		return "Precision_Land"
+	
+	def connect(self):
+		while(veh_control.is_connected() == False):
+			# connect to droneapi
+			veh_control.connect(local_connect())
+		self.vehicle = veh_control.get_vehicle()
+
+	#straight_descent - send the vehicle straight down
+	def straight_descent(self):
+		#veh_control.set_velocity(0,0,self.descent_rate)
+		veh_control.set_velocity(0,0,self.descent_rate)
+	def straight_raise(self):
+		veh_control.set_velocity(0,0,1)
+		time.sleep(10)
+	def arm_and_takeoff(self):
+	    """Dangerous: Arm and takeoff vehicle - use only in simulation"""
+	    # NEVER DO THIS WITH A REAL VEHICLE - it is turning off all flight safety checks
+	    # but fine for experimenting in the simulator.
+	    #self.connect(self)
+            print "Arming and taking off"
+	    self.vehicle.mode    = VehicleMode("STABILIZE")
+	    self.vehicle.parameters["ARMING_CHECK"] = 0
+	    self.vehicle.armed   = True
+	    self.vehicle.flush()
+
+	    while not self.vehicle.armed:
+		    print "Waiting for arming..."
+		    time.sleep(1)
+
+	    print "Taking off!"
+	    self.vehicle.commands.takeoff(10) # Take off to 20m height
+
+	    # Pretend we have a RC transmitter connected
+	    rc_channels = self.vehicle.channel_override
+	    rc_channels[3] = 1500 # throttle
+	    self.vehicle.channel_override = rc_channels
+	    print veh_control.get_location().alt
+	    self.vehicle.flush()
+	    time.sleep(10)
+	
+	'''def land(self):
+	    if alt>1:
+		self.changemode("LAND")
+	'''
+
+	def changemode(self,str):
+		self.vehicle.mode    = VehicleMode(str)
+		self.vehicle.flush()
+'''
+ 	# set_velocity - send nav_velocity command to vehicle to request it fly in specified direction
+    	def set_velocity(self, velocity_x, velocity_y, velocity_z):
+        	#only let commands through at 10hz
+            if(time.time() - self.last_set_velocity) > self.vel_update_rate:
+                self.last_set_velocity = time.time()
+                # create the SET_POSITION_TARGET_LOCAL_NED command
+                msg = self.vehicle.message_factory.set_position_target_local_ned_encode(
+                                                         0,       # time_boot_ms (not used)
+                                                         0, 0,    # target system, target component
+                                                         mavutil.mavlink.MAV_FRAME_LOCAL_NED, # frame
+                                                         0x01C7,  # type_mask (ignore pos | ignore acc)
+                                                         0, 0, 0, # x, y, z positions (not used)
+                                                         velocity_x, velocity_y, velocity_z, # x, y, z velocity in m/s
+                                                         0, 0, 0, # x, y, z acceleration (not used)
+                                                         0, 0)    # yaw, yaw_rate (not used)
+                # send command to vehicle
+                self.vehicle.send_mavlink(msg)
+                self.vehicle.flush()
+
+                sc_logger.text(sc_logger.AIRCRAFT, 'Sent Vx: {0}, Vy: {1}, Vz: {2}'.format(velocity_x,velocity_y,velocity_z))		
+'''
+
+# if starting from mavproxy
+if __name__ == "__builtin__":
+	# start precision landing
+	start = takeland()
+	start.connect()
+	# run strategy
+	start.arm_and_takeoff()
+	print veh_control.get_location().alt
+	start.changemode("LOITER")
+	while veh_control.get_location().alt<100:
+	    print veh_control.get_location().alt
+	    #start.set_velocity(0,1,0);
+	    #veh_control.set_velocity(0,1,0)
+	    #veh_control.set_velocity(1,0,0)
+	    #veh_control.set_velocity(-1,0,0)
+	    veh_control.set_velocity(-1,-1,0)
+	    time.sleep(0.5)	
+	while veh_control.get_location().alt>100:
+	    print veh_control.get_location().alt
+	    #start.set_velocity(0,1,0);
+	    #veh_control.set_velocity(0,1,0)
+	    #veh_control.set_velocity(1,0,0)
+	    #veh_control.set_velocity(0,0,-1)
+	    #veh_control.set_velocity(0,0,1)
+	    time.sleep(0.5)	
+	print veh_control.get_location().alt
+	start.changemode("GUIDED")
+	#start.straight_raise()
+	#start.straight_descent()
+	#start.changemode("GUIDED")
+	
+
+
+
